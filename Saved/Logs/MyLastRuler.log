@@ -2279,3 +2279,6 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.11.18-11.05.56:086][851]SourceControl: fatal: E:/MyLastRuler/Content/Input: 'E:/MyLastRuler/Content/Input' is outside repository at 'C:/Users/Boom Student/Documents/GitHub/Basilisk'
 [2025.11.18-11.05.56:086][851]SourceControl: fatal: E:/MyLastRuler/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/EG/CIZR6W2NYH4Y5P8G67XOU0.uasset: 'E:/MyLastRuler/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/EG/CIZR6W2NYH4Y5P8G67XOU0.uasset' is outside repository at 'C:/Users/Boom Student/Documents/GitHub/Basilisk'
 [2025.11.18-11.05.56:086][851]SourceControl: fatal: E:/MyLastRuler/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/7/C0/IAI2OR8L3ZKV1WHRRJSK5M.uasset: 'E:/MyLastRuler/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/7/C0/IAI2OR8L3ZKV1WHRRJSK5M.uasset' is outside repository at 'C:/Users/Boom Student/Documents/GitHub/Basilisk'
+[2025.11.18-11.06.49:474][730]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 646.094177
+[2025.11.18-11.06.50:470][732]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.18-11.06.50:470][732]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 646.760681, Update Interval: 355.524780
