@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\AsusGaming\\Documents\\GitHub\\Basilisk\\Intermediate\\Source\\MyLastRuler.Build.cs",
+		"C:\\Users\\AsusGaming\\Documents\\GitHub\\Basilisk\\Intermediate\\Source\\MyLastRuler.Target.cs",
+		"C:\\Users\\AsusGaming\\Documents\\GitHub\\Basilisk\\Intermediate\\Source\\MyLastRulerClient.Target.cs",
+		"C:\\Users\\AsusGaming\\Documents\\GitHub\\Basilisk\\Intermediate\\Source\\MyLastRulerEditor.Target.cs",
+		"C:\\Users\\AsusGaming\\Documents\\GitHub\\Basilisk\\Intermediate\\Source\\MyLastRulerServer.Target.cs"
+	],
+	"EngineVersion": "5.6.1"
+}
